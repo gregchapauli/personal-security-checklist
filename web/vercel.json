@@ -1,4 +1,12 @@
 {
+  "buildCommand": "npm run build.static",
+  "outputDirectory": "dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
   "headers": [
     {
       "source": "/build/(.*)",
