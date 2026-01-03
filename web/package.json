@@ -1,14 +1,4 @@
 {
-  "buildCommand": "npm run build.static",
-  "outputDirectory": "dist",
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ]
-}
-{
   "license": "MIT",
   "scripts": {
     "build": "qwik build",
