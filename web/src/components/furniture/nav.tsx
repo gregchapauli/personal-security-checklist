@@ -158,9 +158,9 @@ export default component$(() => {
                   <a href="https://linkedin.com/in/aliciasykes"><Icon icon="linkedin" width={16} height={16} /></a>
                 </li>
               </ul>
-            </li>*/}
+            </li>
             </ul>
-          </li>
+          </li>*/}
         </ul>
       </div>
 
