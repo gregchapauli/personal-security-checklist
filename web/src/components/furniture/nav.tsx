@@ -118,7 +118,7 @@ export default component$(() => {
               ))}
             </ul>
           </li>
-          <li>
+          {/*<li>
             <a href="/article">
               <Icon class="mr-2" icon="articles" width={16} height={16} />Articles
             </a>
@@ -158,7 +158,7 @@ export default component$(() => {
                   <a href="https://linkedin.com/in/aliciasykes"><Icon icon="linkedin" width={16} height={16} /></a>
                 </li>
               </ul>
-            </li>
+            </li>*/}
             </ul>
           </li>
         </ul>
